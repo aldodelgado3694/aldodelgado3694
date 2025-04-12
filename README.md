@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## :zap: Actividad reciente
-<!--START:SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END:SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **aldodelgado3694/aldodelgado3694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
