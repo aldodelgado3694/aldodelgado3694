@@ -2,15 +2,15 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [aldodelgado3694/csm](https://github.com/aldodelgado3694/csm) from [SesameAILabs/csm](https://github.com/SesameAILabs/csm)<br>
-2. ⭐ Starred [SesameAILabs/csm](https://github.com/SesameAILabs/csm)<br>
-3. ⬆️ Pushed 1 commit(s) to [aldodelgado3694/Curso-de-Complejidad-Algoritmica-con-Python](https://github.com/aldodelgado3694/Curso-de-Complejidad-Algoritmica-con-Python)<br>
-4. 📔 Created new repository [aldodelgado3694/Curso-de-Complejidad-Algoritmica-con-Python](https://github.com/aldodelgado3694/Curso-de-Complejidad-Algoritmica-con-Python)<br>
-5. ⭐ Starred [MrDonkey08/huffman](https://github.com/MrDonkey08/huffman)<br>
+1. 🔱 Forked [aldodelgado3694/prompt-eng-interactive-tutorial](https://github.com/aldodelgado3694/prompt-eng-interactive-tutorial) from [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)<br>
+2. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)<br>
+3. 🔱 Forked [aldodelgado3694/csm](https://github.com/aldodelgado3694/csm) from [SesameAILabs/csm](https://github.com/SesameAILabs/csm)<br>
+4. ⭐ Starred [SesameAILabs/csm](https://github.com/SesameAILabs/csm)<br>
+5. ⬆️ Pushed 1 commit(s) to [aldodelgado3694/Curso-de-Complejidad-Algoritmica-con-Python](https://github.com/aldodelgado3694/Curso-de-Complejidad-Algoritmica-con-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 17th, 2025, 12:25:01 PM
+Last Updated: Saturday, May 17th, 2025, 12:58:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
