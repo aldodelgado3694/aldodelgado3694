@@ -5,12 +5,10 @@
 1. 🔱 Forked [aldodelgado3694/opik](https://github.com/aldodelgado3694/opik) from [comet-ml/opik](https://github.com/comet-ml/opik)<br>
 2. 🔱 Forked [aldodelgado3694/prompt-eng-interactive-tutorial](https://github.com/aldodelgado3694/prompt-eng-interactive-tutorial) from [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)<br>
 3. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)<br>
-4. 🔱 Forked [aldodelgado3694/csm](https://github.com/aldodelgado3694/csm) from [SesameAILabs/csm](https://github.com/SesameAILabs/csm)<br>
-5. ⭐ Starred [SesameAILabs/csm](https://github.com/SesameAILabs/csm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 15th, 2025, 1:18:50 AM
+Last Updated: Sunday, June 15th, 2025, 12:26:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
